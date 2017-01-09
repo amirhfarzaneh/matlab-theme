@@ -1,2 +1,2 @@
 # matlab-theme
-a MATLAB theme
+a Dark Green MATLAB theme
